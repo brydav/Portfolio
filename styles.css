@@ -111,7 +111,12 @@ background-size: cover;
 .card h3 {
 	color: rgb(128,0,0);
 }
-
+#wiki_link{
+	color:black;
+}
+#wiki_link:hover {
+	color: rgb(128,0,0);
+}
 ul.skills {
   padding: 0;
   text-align: center;
